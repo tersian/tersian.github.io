@@ -1,4 +1,4 @@
 # tersian.github.io
 Github IO repo
 
-This is my github repo for PDFs and other such nonsense. 
+This is my Github IO repo for presentation decks that I've done and am sharing with attendees. Enjoy.
